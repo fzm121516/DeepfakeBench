@@ -1,0 +1,10 @@
+.venv
+__pycache__
+data
+cache
+.vscode
+debug
+lightning_logs
+tmp
+datasets
+preprocessing
