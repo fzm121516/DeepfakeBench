@@ -1,0 +1,2 @@
+bypy downdir /deepfake/lmdb
+
